@@ -5,7 +5,7 @@ body{
 }
 
 header{
-	background-image: url(file:///C:/Users/todacsa/Desktop/Elso%20honlap%20projeckt/css/kepek/szovet.jpg);
+	background-image: url(css/kepek/szovet.jpg);
 	padding: 0.5rem;
 }
 
@@ -30,7 +30,7 @@ header{
 
 main{
 	text-align: center;
-	background-image: url(file:///C:/Users/todacsa/Desktop/Elso%20honlap%20projeckt/css/kepek/muszaki.jpg);
+	background-image: url(/css/kepek/muszaki.jpg);
 }
 
 
